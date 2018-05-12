@@ -1,0 +1,32 @@
+_repo: Emmy-Lou--Her-Book-and-Heart_24347
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hinton, Charles Louis
+    birthdate: 1869
+    gutenberg_agent_id: '26419'
+    url: http://www.gutenberg.org/2009/agents/26419
+covers:
+- cover_type: archival
+  image_path: 24347-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Martin, George Madden
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '25889'
+    url: http://www.gutenberg.org/2009/agents/25889
+description: ''
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+title: 'Emmy Lou: Her Book and Heart'
+url: http://www.gutenberg.org/ebooks/24347
